@@ -1,0 +1,52 @@
+.clearfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visability: hidden:
+  line-height: 0;
+  height: 0;
+}
+
+.clear {
+  clear: both;
+}
+
+body {
+  background-color: #f0efef;
+  color: #000;
+  font-size: 12px;
+  line-height: l.4;
+  font-family: 'Open Sans' , sans-serif;
+}
+
+container {
+  margins: auto;
+  }
+
+header {
+  background-color: #033048;
+}
+
+header h1 {
+  color: white;
+  float: left;
+  font-size: 1.5rem;
+  font-weight: 800;
+}
+
+nav {
+  float: right;
+  color: #f9e42e;
+}
+
+nav li {
+  display: inline-block;
+}
+
+li {
+  display: inline-block;
+}
+
+p {
+  font-family: "Open Sans" sans-serif light;
+}
